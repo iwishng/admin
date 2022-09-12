@@ -46,35 +46,6 @@ const Validation = () => {
                 />
               );
             })}
-
-            {/* 
-            <input
-              className='bg-gray-200 w-10 h-10 rounded-md text-center font-bold text-xl'
-              type='text'
-              inputMode='numeric'
-              autoComplete='one-time-code'
-              name=''
-              id=''
-              maxLength={1}
-            />
-            <input
-              className='bg-gray-200 w-10 h-10 rounded-md text-center font-bold text-xl'
-              type='text'
-              inputMode='numeric'
-              autoComplete='one-time-code'
-              name=''
-              id=''
-              maxLength={1}
-            />
-            <input
-              className='bg-gray-200 w-10 h-10 rounded-md text-center font-bold text-xl'
-              type='text'
-              inputMode='numeric'
-              autoComplete='one-time-code'
-              name=''
-              id=''
-              maxLength={1}
-            /> */}
           </div>
           <input
             className='block bg-[#7805A7] rounded-md text-purple-100  py-4 my-4 text-sm md:text-xl w-fit px-6 capitalize'
